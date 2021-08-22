@@ -1,7 +1,5 @@
-# Welcome to My Pages
-
-Fun experimentation with code.
+# Welcome
 
 ## Topics
 
-self-hosting, python, data, physics
+self-hosting, python, data, astrophysics
